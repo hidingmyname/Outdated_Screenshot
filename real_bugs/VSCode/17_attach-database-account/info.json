@@ -1,0 +1,6 @@
+{
+    "src": "https://github.com/microsoft/vscode-docs/blob/main/docs/azure/images/mongodb/attach-database-account.png",
+    "issue": "https://github.com/microsoft/vscode-docs/issues/7285",
+    "status": "fixed",
+    "pr": "https://github.com/microsoft/vscode-docs/pull/7318"
+}

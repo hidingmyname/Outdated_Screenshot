@@ -1,0 +1,2 @@
+adb shell CLASSPATH=/sdcard/monkey.jar:/sdcard/framework.jar exec app_process /system/bin tv.panda.test.monkey.Monkey -p com.boedec.hoel.frequencygenerator --running-minutes 1 --throttle 300 --uiautomatortroy -v -v --output-directory /sdcard/max-output
+pause

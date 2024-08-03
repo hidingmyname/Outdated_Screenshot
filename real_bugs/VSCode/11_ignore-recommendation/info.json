@@ -1,0 +1,6 @@
+{
+    "src": "https://github.com/microsoft/vscode-docs/blob/main/docs/editor/images/extension-marketplace/ignore-recommendation.png",
+    "issue": "https://github.com/microsoft/vscode-docs/issues/6884",
+    "status": "fixed",
+    "pr": "https://github.com/microsoft/vscode-docs/pull/7024"
+}

@@ -1,0 +1,6 @@
+{
+    "src": "https://github.com/microsoft/vscode-docs/blob/main/docs/azure/images/remote-debugging/app-service-explorer.png",
+    "issue": "https://github.com/microsoft/vscode-docs/issues/6866",
+    "status": "fixed",
+    "pr": "https://github.com/microsoft/vscode-docs/pull/7222"
+}

@@ -1,0 +1,6 @@
+{
+    "src": "https://github.com/microsoft/vscode-docs/blob/main/docs/supporting/images/troubleshoot-terminal-launch/search-for-settings.png",
+    "issue": "https://github.com/microsoft/vscode-docs/issues/7204",
+    "status": "fixed",
+    "pr": "https://github.com/microsoft/vscode-docs/pull/7260"
+}

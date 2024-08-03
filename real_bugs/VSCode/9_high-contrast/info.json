@@ -1,0 +1,6 @@
+{
+    "src": "https://github.com/microsoft/vscode-docs/blob/main/docs/editor/images/accessibility/high-contrast.png",
+    "issue": "https://github.com/microsoft/vscode-docs/issues/6883",
+    "status": "fixed",
+    "pr": "https://github.com/microsoft/vscode-docs/pull/6893"
+}

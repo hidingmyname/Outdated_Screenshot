@@ -1,0 +1,2 @@
+adb shell CLASSPATH=/sdcard/monkeyq.jar:/sdcard/framework.jar exec app_process /system/bin com.android.commands.monkey.Monkey -p com.boedec.hoel.frequencygenerator --agent robot --running-minutes 5 --throttle 300 -v -v --output-directory /sdcard/fastbot-output
+pause

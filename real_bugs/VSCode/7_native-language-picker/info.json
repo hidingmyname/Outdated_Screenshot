@@ -1,0 +1,6 @@
+{
+    "src": "https://github.com/microsoft/vscode-docs/blob/main/docs/datascience/images/jupyter/native-language-picker-01.png",
+    "issue": "https://github.com/microsoft/vscode-docs/issues/6878",
+    "status": "fixed",
+    "pr": "https://github.com/microsoft/vscode-docs/pull/7435"
+}
